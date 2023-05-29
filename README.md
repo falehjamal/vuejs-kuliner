@@ -1,8 +1,16 @@
-# kulineran
+# App kulineran dengan VUE JS dan JSON Placeholder
 
 ## Project setup
 ```
 npm install
+```
+## Database Json placeholder
+```
+npm install -g json-server
+```
+## Run serve DB Json placeholder
+```
+json-server db.json
 ```
 
 ### Compiles and hot-reloads for development
